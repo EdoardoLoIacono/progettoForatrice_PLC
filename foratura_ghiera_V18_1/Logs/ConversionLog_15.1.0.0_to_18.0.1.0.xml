@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="foratura_ghiera" typeText="Tipo" messageText="Messaggio" timeText="Ora">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:00">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Aggiornamento avviato" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/12/2024 07:55:02" Debug="false">
+    <Text>Reorganization succeed!</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:02">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair lost+found objects" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/12/2024 07:55:04" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:04">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair missing bidirectional links" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/12/2024 07:55:04" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:04">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair clear segment flags" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/12/2024 07:55:04" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:16">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="C0010:1015 Repair 'Comment' for DeviceDataObject 'S71500/ET200MP station_1'. Comment object had no culture infos." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:16">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="L'utente connesso dispone del diritto di engineering &quot;Aggiorna progetto&quot; richiesto." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:17">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Starting removal of system role assignments compatibility from system device function rights" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:17">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Finished removal of system role assignments compatibility from system device function rights" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:17">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="I ruoli di sistema obsoleti vengono eliminati." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:17">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="L'eliminazione dei ruoli di sistema obsoleti è terminata." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:17">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Starting change link between DFR and DFRSet" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:17">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Finished change link between DFR and DFRSet" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:17">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Starting data conversion workflow for umac entities i.e. System Role, EFR &amp; DFR" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:17">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Finished data conversion workflow for umac entities i.e. System Role, EFR &amp; DFR" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="11/12/2024 07:55:28">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Elemento del progetto: '\PLC_1\ProgramBlocksFolder\Main' - Incoerenza della somma di controllo per 'General; Event'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="11/12/2024 07:55:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Elemento del progetto: '\PLC_1\ProgramBlocksFolder\2fori' - Incoerenza della somma di controllo per 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="11/12/2024 07:55:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Elemento del progetto: '\PLC_1\ProgramBlocksFolder\4 fori' - Incoerenza della somma di controllo per 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="11/12/2024 07:55:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Elemento del progetto: '\PLC_1\ProgramBlocksFolder\prove_Q' - Incoerenza della somma di controllo per 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="11/12/2024 07:55:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Elemento del progetto: '\PLC_1\ProgramBlocksFolder\8 fori' - Incoerenza della somma di controllo per 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="11/12/2024 07:55:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Elemento del progetto: '\PLC_1\ProgramBlocksFolder\SystemBlocksFolder\ProgramResourcesFolder\conta_2' - Incoerenza della somma di controllo per 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="11/12/2024 07:55:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Elemento del progetto: '\PLC_1\ProgramBlocksFolder\SystemBlocksFolder\ProgramResourcesFolder\Conta_4' - Incoerenza della somma di controllo per 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="11/12/2024 07:55:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Elemento del progetto: '\PLC_1\ProgramBlocksFolder\SystemBlocksFolder\ProgramResourcesFolder\conta_4.1' - Incoerenza della somma di controllo per 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="11/12/2024 07:55:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Elemento del progetto: '\PLC_1\ProgramBlocksFolder\SystemBlocksFolder\ProgramResourcesFolder\conta_4.2' - Incoerenza della somma di controllo per 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:32">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Conversione delle informazioni dei riferimenti incrociati in corso." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:33">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Creazione delle informazioni dei riferimenti incrociati riuscita." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:33">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="La conversione delle informazioni dei riferimenti incrociati è terminata." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/12/2024 07:55:33" Debug="false">
+    <Text>Package container 'HW.S71500.AO.Modules.MDD_6ES7532-5HD00-0AB0_V2.2_15.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/12/2024 07:55:33" Debug="false">
+    <Text>Package container 'HW.S71500.AI.Modules.MDD_6ES7531-7KF00-0AB0_V2.2_15.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/12/2024 07:55:33" Debug="false">
+    <Text>Package container 'HW.S71500.DO.Modules.MDD_6ES7522-1BL01-0AB0_V1.1_15.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/12/2024 07:55:33" Debug="false">
+    <Text>Package container 'HW.S71500.DI.Modules.MDD_6ES7521-1BL00-0AB0_V2.2_15.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/12/2024 07:55:33" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Lang.S7PSW.V15.1.0.0.NonMandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/12/2024 07:55:33" Debug="false">
+    <Text>Package container 'HW.S71500.CPU.CPU_1516_3_PN+DP.MDD_6ES7_516_3AN00_0AB0_1.8_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/12/2024 07:55:33" Debug="false">
+    <Text>Package container 'HW.S71500.RACK.MDD_6ES5xx-xxxxx-xxxx_1.0_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/12/2024 07:55:33" Debug="false">
+    <Text>Product version 'Siemens.Simatic.HSP.HW.S71500_PER_0419:01.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/12/2024 07:55:33" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Professional:15.01.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/12/2024 07:55:33" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Professional:14.00.00.00' was deleted</Text>
+  </Details>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabProjectSucceeded" MessageClass="Success" Timestamp="11/12/2024 07:55:35">
+    <Number ServiceNumber="80" MessageNumber="34" />
+    <Text FeedbackText="Il progetto 'C:\Users\e.giraudo.2685\Desktop\foratura_ghiera\System\PEData.plf' è stato aggiornato e salvato come progetto 'C:\Users\e.giraudo.2685\Desktop\foratura_ghiera_V18\System\PEData.plf'." />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/12/2024 07:55:35">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="FinalCheckRemainingErrors" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/12/2024 07:55:35" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+</LogFile>
